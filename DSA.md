@@ -6,8 +6,8 @@ Algorithms are set of instructions to complete a task.
 ### Types of Data Structures
 1) Primitive - {Integer, Float, String, Boolean}
 2) Non Primitive - Linear Data Structures & Non-Linear Data Structures
-   Linear Data Structures - {list, tuple, array, linked list, stack, queue}
-   Non-Linear Data Structures - {set, dictionary, tree, graph}
+Linear Data Structures - {list, tuple, array, linked list, stack, queue}
+Non-Linear Data Structures - {set, dictionary, tree, graph}
 ### Types of Algorithms 
 1) Sorting Algorithms
 2) Searching Algorithms
